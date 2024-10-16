@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>osTicket - Post-Installation Configuration</h1>
 This lab is a showcase of configuration and assigning permissions to employee users in osTIcket.<br/>
 * This lab is done using a virtual machine in Azure. Here are my <a href="google.com" styl>lab</a> showcases *
 
