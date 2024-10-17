@@ -40,14 +40,18 @@ After loggin in, notice that you can switch between <b>Admin Panel</b> and <b>Ag
 <p>
   <img width="90%" alt="Screenshot 2024-10-17 at 8 57 54 AM" src="https://github.com/user-attachments/assets/21745dc6-6242-4a34-b78d-e0cc31c8f321">
   </p>
-  <p><b>Configure Supreme Admin Role</b></p>
+  <p><b>Configure Supreme Admin <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Role</a></b></p>
   <p>Under <b>Admin Panel</b><br>
-    Go to Agent > Roles > Add New Role > Make a new new called "Supreme Admin" > assign all of the  permisssions to the role
+    Go to Agent > Roles > Add New Role > make a new role called "Supreme Admin" > assign all of the  permisssions to the role
   </p>
   <p>
     <img width="90%" alt="Screenshot 2024-10-17 at 9 09 25 AM" src="https://github.com/user-attachments/assets/86fc456a-67a3-4b5b-834a-9148a665193d">
 <img width="90%" alt="Screenshot 2024-10-17 at 9 10 32 AM" src="https://github.com/user-attachments/assets/2d121ddc-22a7-4808-8cd2-85d86698bcb5">
 <img width="90%" alt="Screenshot 2024-10-17 at 9 11 11 AM" src="https://github.com/user-attachments/assets/9cd1d96c-6966-448e-8b23-d8b2a793b283">
 <img width="90%" alt="Screenshot 2024-10-17 at 9 14 25 AM" src="https://github.com/user-attachments/assets/f8fe739a-1fb2-42c0-8cfb-46ba51d72a84">
-
+  </p>
+  <p><b>Configure Help Desk <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Role</a></b></p>
+  <p>
+    <p>Under <b>Admin Panel</b><br>
+      Go to Agent > Roles > Add New Role > make a new role called "Help Desk". assign the followin permissions to the role
   </p>
