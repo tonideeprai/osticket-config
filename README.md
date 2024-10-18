@@ -55,3 +55,8 @@ After loggin in, notice that you can switch between <b>Admin Panel</b> and <b>Ag
     <p>Under <b>Admin Panel</b><br>
       Go to Agent > Roles > Add New Role > make a new role called "Help Desk". assign the followin permissions to the role
   </p>
+<p>
+  <img width="90%" alt="Screenshot 2024-10-17 at 9 27 33 AM" src="https://github.com/user-attachments/assets/84e0c9a7-44ae-4821-a53a-08cf6efac590">
+<img width="90%" alt="Screenshot 2024-10-18 at 9 30 00 AM" src="https://github.com/user-attachments/assets/c923e055-88c5-4e25-bbb7-26f7f31937ad">
+
+</p>
