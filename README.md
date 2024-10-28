@@ -40,7 +40,8 @@ After loggin in, notice that you can switch between <b>Admin Panel</b> and <b>Ag
 <p>
   <img width="90%" alt="Screenshot 2024-10-17 at 8 57 54 AM" src="https://github.com/user-attachments/assets/21745dc6-6242-4a34-b78d-e0cc31c8f321">
   </p>
-  <p><b>Configure Supreme Admin <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Role</a></b></p>
+  <hr>
+  <h3>Configure Supreme Admin <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Role</a></h3>
   <p>Under <b>Admin Panel</b><br>
      Agent -> Roles -> Add New Role -> make a new role called "Supreme Admin" -> assign all of the  permisssions to the role
   </p>
@@ -50,6 +51,7 @@ After loggin in, notice that you can switch between <b>Admin Panel</b> and <b>Ag
 <img width="90%" alt="Screenshot 2024-10-17 at 9 11 11 AM" src="https://github.com/user-attachments/assets/9cd1d96c-6966-448e-8b23-d8b2a793b283">
 <img width="90%" alt="Screenshot 2024-10-17 at 9 14 25 AM" src="https://github.com/user-attachments/assets/f8fe739a-1fb2-42c0-8cfb-46ba51d72a84">
   </p>
+  <hr>
   <p><b>Configure Help Desk <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Role</a></b></p>
   <p>
     <p>Under <b>Admin Panel</b><br>
