@@ -18,7 +18,7 @@ This lab is a showcase of configuration and assigning permissions to employee us
 
 <h2>Prerequisites</h2>
 
-- This lab assumes that you have osTicket installed in your computer and have a login account setup. (My <a href="https://github.com/tonideeprai/osticket-prereqs">guide</a>.)
+- osTicket Installation (my <a href="https://github.com/tonideeprai/osticket-prereqs">guide</a>.)
 
 <h2>URL (optional)</h2>
 
