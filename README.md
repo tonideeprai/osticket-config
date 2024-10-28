@@ -30,7 +30,7 @@ These will help you go back and forth between diffferent pages quicker.<br>
 
 <h2>Let's get started!</h2>
 
-<p><b>Acknowledge Agent Panel vs Admin Panel</b></p>
+<h3>Acknowledge Agent Panel vs Admin Panel</h3>
 <p>
 After loggin in, notice that you can switch between <b>Admin Panel</b> and <b>Agent Panel</b>
 
