@@ -52,7 +52,7 @@ After loggin in, notice that you can switch between <b>Admin Panel</b> and <b>Ag
 <img width="90%" alt="Screenshot 2024-10-17 at 9 14 25 AM" src="https://github.com/user-attachments/assets/f8fe739a-1fb2-42c0-8cfb-46ba51d72a84">
   </p>
   <hr>
-  <p><b>Configure Help Desk <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Role</a></b></p>
+  <h3>Configure Help Desk <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html">Role</a></h3>
   <p>
     <p>Under <b>Admin Panel</b><br>
      Agent -> Roles -> Add New Role -> make a new role called "Help Desk" -> assign the following permissions to the role
@@ -60,18 +60,28 @@ After loggin in, notice that you can switch between <b>Admin Panel</b> and <b>Ag
 <p>
   <img width="90%" alt="Screenshot 2024-10-17 at 9 27 33 AM" src="https://github.com/user-attachments/assets/84e0c9a7-44ae-4821-a53a-08cf6efac590">
 <img width="90%" alt="Screenshot 2024-10-18 at 9 30 00 AM" src="https://github.com/user-attachments/assets/c923e055-88c5-4e25-bbb7-26f7f31937ad">
-<img width="1512" alt="Screenshot 2024-10-20 at 2 09 28 PM" src="https://github.com/user-attachments/assets/245dbcaa-41e6-4a80-a929-5c9a817b0ed5">
+<img width="90%" alt="Screenshot 2024-10-20 at 2 09 28 PM" src="https://github.com/user-attachments/assets/245dbcaa-41e6-4a80-a929-5c9a817b0ed5">
 </p>
-<p> <b>Configure SysAdmins <a href="https://docs.osticket.com/en/latest/Admin/Agents/Departments.html">Department</a></b></p><br>
+<hr>
+<h3>Configure SysAdmins <a href="https://docs.osticket.com/en/latest/Admin/Agents/Departments.html">Department</a></h3>
 <p>Under <b>Admin Panel</b><br>
      Agent -> Departments -> Add New Department -> make a new department called "SysAdmins".
   </p>
   <p>
 <img width="90%" alt="Screenshot 2024-10-20 at 2 24 59 PM" src="https://github.com/user-attachments/assets/d4838f59-177a-4898-add4-727aa6427349">
-<img width="90%" alt="Screenshot 2024-10-20 at 2 26 21 PM" src="https://github.com/user-attachments/assets/a18cafbc-b1c7-4a57-a0af-b26a32f07dee">
+<img width="90%" alt="Screenshot 2024-10-28 at 1 25 14 PM" src="https://github.com/user-attachments/assets/70dbb917-06d6-486d-8443-f4087ed3e075">
 <img width="90%" alt="Screenshot 2024-10-20 at 2 28 34 PM" src="https://github.com/user-attachments/assets/12073503-3f29-4543-ac05-5e61d10c30ba">
   </p>
-  <p><b>Configure Online Banking <a href="https://docs.osticket.com/en/latest/Admin/Agents/Teams.html">Team</a></b></p>
+  <h3>Delete Maintenance Department</h3>
+  <p>Under <b>Admin Panel</b><br>
+     Agent -> Departments -> check Maintance department's box -> More -> Delete
+  </p>
+    <p>
+      <img width="90%" alt="Screenshot 2024-10-28 at 1 36 35 PM" src="https://github.com/user-attachments/assets/66551667-07cc-4442-8fcd-5e65aab18aed">
+      <img width="90%" alt="Screenshot 2024-10-28 at 1 37 33 PM" src="https://github.com/user-attachments/assets/3f913875-7429-4861-8b4d-409a1a599a7e">
+  </p>
+  <hr>
+  <h3>Configure Online Banking <a href="https://docs.osticket.com/en/latest/Admin/Agents/Teams.html">Team</a></h3>
   <p>Under <b>Admin Panel</b>
   <p>
     Agents -> Teams -> Add New Team -> name it "Online Banking"
@@ -81,7 +91,8 @@ After loggin in, notice that you can switch between <b>Admin Panel</b> and <b>Ag
 <img width="90%" alt="Screenshot 2024-10-20 at 2 35 00 PM" src="https://github.com/user-attachments/assets/2de16b9f-92ce-4fbd-b28e-cee65366015a">
 <img width="90%" alt="Screenshot 2024-10-20 at 2 36 32 PM" src="https://github.com/user-attachments/assets/f48c19c3-a03a-46c9-a9f2-6d84aa4dcc01">
   </p>
-  <p><b>Allow anyone to create tickets</b></p>
+  <hr>
+  <h3>Allow anyone to create tickets</h3>
   <p>Under <b>Admin Panel</b></p>
   <p>
      Settings -> Users (UNCHECK: unregistered users can create tickets)
@@ -93,7 +104,8 @@ After loggin in, notice that you can switch between <b>Admin Panel</b> and <b>Ag
     <img width="90%" alt="Screenshot 2024-10-20 at 2 40 34 PM" src="https://github.com/user-attachments/assets/c8c03f65-dc00-4110-ac33-5de078aaf89f">
 <img width="90%" alt="Screenshot 2024-10-20 at 2 46 36 PM" src="https://github.com/user-attachments/assets/38f6373a-b48a-4f2d-abff-40f4f98d9982">
   </p>
-  <p><b>Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">Agents (workers)</b></p>
+  <hr>
+  <h3>Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html">Agents (workers)</h3>
   <p>Under <b>Admin Panel</b></p>
   <p>
     Agent -> Add New Agent
@@ -110,7 +122,8 @@ After loggin in, notice that you can switch between <b>Admin Panel</b> and <b>Ag
 <img width="90%" alt="Screenshot 2024-10-20 at 4 25 46 PM" src="https://github.com/user-attachments/assets/39555124-035c-41a6-b7c6-7e3bb6767df2">
 <img width="90%" alt="Screenshot 2024-10-20 at 4 38 22 PM" src="https://github.com/user-attachments/assets/ba087fdb-4980-48e1-bf11-64d2c3e3be64">
   </p>
-  <p><b>Configure <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">Users (customers)</a></b></p>
+    <hr>
+  <h3>Configure <a href="https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html">Users (customers)</a></h3>
   <p>Under <b>Agent Panel</b></p>
   <p>
     Users -> Add User
@@ -124,7 +137,8 @@ After loggin in, notice that you can switch between <b>Admin Panel</b> and <b>Ag
   <img width="90%" alt="Screenshot 2024-10-20 at 4 43 26 PM" src="https://github.com/user-attachments/assets/c2835ad8-da53-4dd4-bbda-5411c6f4a4c7">
   <img width="90%" alt="Screenshot 2024-10-20 at 4 45 12 PM" src="https://github.com/user-attachments/assets/0e0ff70c-e1fe-4523-88bd-9ad22f147fbc">
   </p>
-  <p><b>Configure <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">SLA</a></b></p>
+    <hr>
+  <h3>Configure <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html">SLA</a></h3>
   <p>Under <b>Admin Panel</b></p>
   <p>
     Manage -> SLA -> Add New SLA Plan
@@ -139,7 +153,8 @@ After loggin in, notice that you can switch between <b>Admin Panel</b> and <b>Ag
     <img width="90%" alt="Screenshot 2024-10-20 at 4 56 01 PM" src="https://github.com/user-attachments/assets/101e623d-3871-40a7-984e-c7678b79eeda">
     <img width="90%" alt="Screenshot 2024-10-20 at 5 01 11 PM" src="https://github.com/user-attachments/assets/9a50e214-787c-4345-9891-838e2343ac60">
   </p>
-  <p><b>Configure <a href="https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html">Help Topics</a> (For when users create a ticket)</b></p>
+    <hr>
+  <h3>Configure <a href="https://docs.osticket.com/en/latest/Admin/Manage/Help%20Topic.html">Help Topics</a> (For when users create a ticket)</h3>
   <p>Under <b>Admin Panel</b></p>
   <p>
     Manage -> Help Topics -> Add New Help Topic
