@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Installation Configuration</h1>
-This lab is a showcase of configuration and assigning permissions to employee users in osTIcket.<br/>
+This lab is a showcase of configuration and assigning permissions to users in osTIcket.<br/>
 * This lab is done using a virtual machine in Azure. Here are my <a href="google.com" styl>lab</a> showcases *
 
 <h2>Environments and Technologies Used</h2>
@@ -19,14 +19,6 @@ This lab is a showcase of configuration and assigning permissions to employee us
 <h2>Prerequisites</h2>
 
 - osTicket Installation (my <a href="https://github.com/tonideeprai/osticket-prereqs">guide</a>.)
-
-<h2>URL (optional)</h2>
-
-These will help you go back and forth between diffferent pages quicker.<br>
-- Admin/Analyst Login Page:<br>
-<a href="http://localhost/osTicket/scp/login.php">http://localhost/osTicket/scp/login.php</a>
-- End User osTIcket:<br>
-<a href="http://localhost/osTicket">http://localhost/osTicket</a>
 
 <h2>Let's get started!</h2>
 
