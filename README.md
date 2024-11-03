@@ -4,7 +4,7 @@
 
 <h1>osTicket - Post-Installation Configuration</h1>
 This lab is a showcase of configuration and assigning permissions to users in osTIcket.<br/>
-* This lab is done using a virtual machine in Azure. Here are my <a href="google.com" styl>lab</a> showcases *
+* This lab is done using a virtual machine in Azure (My setup <a href="https://github.com/tonideeprai/azure-vm-tutorial">tutorial)</a> *
 
 <h2>Environments and Technologies Used</h2>
 
